@@ -25,7 +25,6 @@ header img {
 	float: left;
 }
 
-
 h2{
 	font-size: 170%;
 	color: #800000;
@@ -95,7 +94,6 @@ footer{
 	border-width: 3px;
 	border-color: #931420;
 	color: white;
-
 }
 
 p{
@@ -103,12 +101,5 @@ p{
 	padding-top: 1em;
 	padding-bottom: 1em;
 }
-
-
- /*Then, delete the text-indent rules for the h2 and h3 elements in the
-header, and add 30 pixels of padding to the right and left of the image in the
-header. When you test these changes, you’ll see that the heading looks much
-better
-*/
 
 
