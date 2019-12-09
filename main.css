@@ -1,0 +1,114 @@
+/* the styles for the elements */
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%; 
+    width: 600px; 
+    margin: 0,auto,0,auto; 
+    border: solid, 
+    border-width: 3px;
+    border-color: #931420;
+    background-color: #fffded;
+
+}
+
+/* the styles for the header */
+header{
+	border-bottom: solid;
+	border-width: 3px;
+	border-color: #931420;
+	padding-top: 1.5em;
+	padding-bottom: 2em;
+    background: linear-gradient(to bottom, #f6bb73 30%, white 50%, #f6bb73 80%);
+}
+
+header img {
+	float: left;
+}
+
+
+h2{
+	font-size: 170%;
+	color: #800000;
+}
+
+h3{
+	font-size:130%;
+	font-style: italic;
+}
+
+/* the styles for the section */
+main {
+	clear: left;
+	padding-right: 30px;
+	padding-left: 30px; 
+}
+
+h1{
+	font-size: 150%;
+	border-top-bottom: solid;
+	border-width: 3px;
+	border-color: #931420;
+	padding-top:.3em;
+	padding-bottom:.3em;
+}
+
+h2{
+	font-size: 130%;
+	color: #800000
+	padding-top:.5em;
+	padding-bottom:.25em;
+}
+
+h3{
+	font-size: 105%;
+	padding-bottom:.25em;
+}
+
+a:visited:hover{ 
+	color:blue; text-decoration: italic;
+}
+
+img{
+	padding-bottom: 1em;
+}
+
+p{
+	padding-bottom:.5em; 
+}
+
+blockquote{
+	padding-right:2em;
+	padding-left:2em;
+}
+
+ul{
+	padding-bottom:.25em;
+	padding-left:1.25em;
+}
+
+li{
+	padding-bottom:.35em;
+}
+/* the styles for the footer */
+footer{
+	border-top: solid;
+	border-width: 3px;
+	border-color: #931420;
+	color: white;
+
+}
+
+p{
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+
+ /*Then, delete the text-indent rules for the h2 and h3 elements in the
+header, and add 30 pixels of padding to the right and left of the image in the
+header. When you test these changes, you’ll see that the heading looks much
+better
+*/
+
+
